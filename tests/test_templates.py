@@ -12,7 +12,7 @@ from tests.conftest import try_get_url
         ('posts/0/', 'blog/detail.html'),
         ('posts/1/', 'blog/detail.html'),
         ('posts/2/', 'blog/detail.html'),
-        ('category/category_slug/', 'blog/category_posts.html'),
+        ('category/category_slug/', 'blog/category.html'),
         ('pages/about/', 'pages/about.html'),
         ('pages/rules/', 'pages/rules.html'),
     ]
